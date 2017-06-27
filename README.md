@@ -1,3 +1,4 @@
+>一个Android库分解RecyclerView布局来提高滚动性能。
 # Graywater: an android library for performant lists
 
 Graywater is a [`RecyclerView`](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) adapter that facilitates the performant decomposition of complex and varied list items. It does this by mapping large data models to multiple viewholders, splitting the work needed to create a complex list item over multiple frames.
